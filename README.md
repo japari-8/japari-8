@@ -8,7 +8,7 @@ I am a senior at WGU seeking a bachelor’s degree in software engineering. I ma
 
 * 🌍  I'm based in Tampa
 * ✉️  You can contact me at [japari6@wgu.edu](mailto:japari6@wgu.edu)
-* 🧠  I'm currently learning how to install and use SDKs
+* 🧠  I'm currently learning how to develop a fullstack mobile app
 * 👥  I'm looking to collaborate on Projects
 
 <p align="left">
